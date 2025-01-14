@@ -4,3 +4,7 @@
 *{
 font-family: "gilroy","poppins","neue-machina";
 }
+
+html {
+    scroll-behavior: smooth;
+}
